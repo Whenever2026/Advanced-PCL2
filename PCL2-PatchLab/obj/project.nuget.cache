@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HZr0W6tgmIg=",
+  "success": true,
+  "projectFilePath": "D:\\Folders\\Desktop\\PclBinaryPatchLab_FluentUI\\PclBinaryPatchLab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yanyu\\.nuget\\packages\\dnlib\\4.5.0\\dnlib.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

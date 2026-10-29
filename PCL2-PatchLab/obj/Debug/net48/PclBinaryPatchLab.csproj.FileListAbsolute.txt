@@ -1,0 +1,12 @@
+D:\Folders\Desktop\PclBinaryPatchLab_FluentUI\bin\Debug\net48\PclBinaryPatchLab.exe.config
+D:\Folders\Desktop\PclBinaryPatchLab_FluentUI\bin\Debug\net48\PclBinaryPatchLab.exe
+D:\Folders\Desktop\PclBinaryPatchLab_FluentUI\bin\Debug\net48\PclBinaryPatchLab.pdb
+D:\Folders\Desktop\PclBinaryPatchLab_FluentUI\bin\Debug\net48\dnlib.dll
+D:\Folders\Desktop\PclBinaryPatchLab_FluentUI\obj\Debug\net48\PclBinaryPatchLab.csproj.AssemblyReference.cache
+D:\Folders\Desktop\PclBinaryPatchLab_FluentUI\obj\Debug\net48\PclBinaryPatchLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Folders\Desktop\PclBinaryPatchLab_FluentUI\obj\Debug\net48\PclBinaryPatchLab.AssemblyInfoInputs.cache
+D:\Folders\Desktop\PclBinaryPatchLab_FluentUI\obj\Debug\net48\PclBinaryPatchLab.AssemblyInfo.cs
+D:\Folders\Desktop\PclBinaryPatchLab_FluentUI\obj\Debug\net48\PclBinaryPatchLab.csproj.CoreCompileInputs.cache
+D:\Folders\Desktop\PclBinaryPatchLab_FluentUI\obj\Debug\net48\PclBinar.C1A7BE71.Up2Date
+D:\Folders\Desktop\PclBinaryPatchLab_FluentUI\obj\Debug\net48\PclBinaryPatchLab.exe
+D:\Folders\Desktop\PclBinaryPatchLab_FluentUI\obj\Debug\net48\PclBinaryPatchLab.pdb

@@ -1,0 +1,127 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "dnlib/4.5.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/dnlib.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/dnlib.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x86": {
+      "dnlib/4.5.0": {
+        "type": "package",
+        "compile": {
+          "lib/net45/dnlib.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net45/dnlib.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dnlib/4.5.0": {
+      "sha512": "YkwstIbjyiJ12uGIAN8oSmImgVFkPHit7MJXPHvJqeKV1DMNqxZWszjHfykgiSs4Y/XmjnZts7pI2/AYme5/uA==",
+      "type": "package",
+      "path": "dnlib/4.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "dnlib.4.5.0.nupkg.sha512",
+        "dnlib.nuspec",
+        "lib/net35/dnlib.dll",
+        "lib/net35/dnlib.xml",
+        "lib/net45/dnlib.dll",
+        "lib/net45/dnlib.xml",
+        "lib/net6.0/dnlib.dll",
+        "lib/net6.0/dnlib.xml",
+        "lib/netstandard2.0/dnlib.dll",
+        "lib/netstandard2.0/dnlib.xml"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "dnlib >= 4.5.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\yanyu\\.nuget\\packages\\": {},
+    "D:\\Programs\\VisualStudioSDK\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Folders\\Desktop\\PclBinaryPatchLab_FluentUI\\PclBinaryPatchLab.csproj",
+      "projectName": "PclBinaryPatchLab",
+      "projectPath": "D:\\Folders\\Desktop\\PclBinaryPatchLab_FluentUI\\PclBinaryPatchLab.csproj",
+      "packagesPath": "C:\\Users\\yanyu\\.nuget\\packages\\",
+      "outputPath": "D:\\Folders\\Desktop\\PclBinaryPatchLab_FluentUI\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Programs\\VisualStudioSDK\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\yanyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net48": {
+        "targetAlias": "net48",
+        "dependencies": {
+          "dnlib": {
+            "target": "Package",
+            "version": "[4.5.0, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.312\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

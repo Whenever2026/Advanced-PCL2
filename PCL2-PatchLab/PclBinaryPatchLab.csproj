@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <LangVersion>7.3</LangVersion>
+    <RootNamespace>PclBinaryPatchLab</RootNamespace>
+    <AssemblyName>PclBinaryPatchLab</AssemblyName>
+    <ApplicationIcon>Resources\pcl-logo.ico</ApplicationIcon>
+    <GenerateAssemblyInfo>true</GenerateAssemblyInfo>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="dnlib" Version="4.5.0" />
+    <EmbeddedResource Include="Resources\pcl-logo.png">
+      <LogicalName>PclBinaryPatchLab.Resources.pcl-logo.png</LogicalName>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\pcl-logo.ico">
+      <LogicalName>PclBinaryPatchLab.Resources.pcl-logo.ico</LogicalName>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
